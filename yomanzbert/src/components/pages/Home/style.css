@@ -1,0 +1,14 @@
+.body {
+    box-sizing: border-box;
+}
+
+.home-page-container div.iframe-container#iframe-container{
+    margin-top: 100%;
+    border: 1px solid red;
+
+}
+
+div.iframe-container {
+    border: 1px solid red;
+}
+
