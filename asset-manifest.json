@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/yomanzbert/static/css/main.a617e044.chunk.css",
+    "main.js": "/yomanzbert/static/js/main.dd9b095b.chunk.js",
+    "main.js.map": "/yomanzbert/static/js/main.dd9b095b.chunk.js.map",
+    "runtime-main.js": "/yomanzbert/static/js/runtime-main.6be57b5a.js",
+    "runtime-main.js.map": "/yomanzbert/static/js/runtime-main.6be57b5a.js.map",
+    "static/js/2.db85152f.chunk.js": "/yomanzbert/static/js/2.db85152f.chunk.js",
+    "static/js/2.db85152f.chunk.js.map": "/yomanzbert/static/js/2.db85152f.chunk.js.map",
+    "static/js/3.55a624c7.chunk.js": "/yomanzbert/static/js/3.55a624c7.chunk.js",
+    "static/js/3.55a624c7.chunk.js.map": "/yomanzbert/static/js/3.55a624c7.chunk.js.map",
+    "index.html": "/yomanzbert/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/yomanzbert/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.db85152f.chunk.js.LICENSE.txt": "/yomanzbert/static/js/2.db85152f.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/yomanzbert/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6be57b5a.js",
+    "static/js/2.db85152f.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.dd9b095b.chunk.js"
+  ]
+}
